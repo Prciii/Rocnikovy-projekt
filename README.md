@@ -4,7 +4,7 @@
  - Hotový projekt by měl vypadat jako autíčko, které je schopno provádět pohyb po čáře za pomocí senzorů.
  - [x] Září - objednání hardware
  
- - [ ] Říjen - Sestavení auta, postupné psaní dokumentace
+ - [x] Říjen - Sestavení auta, postupné psaní dokumentace
  
  - [ ] Listopad - Nastudování a úprava programu 
  
