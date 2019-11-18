@@ -2,11 +2,11 @@
   Arduino Line Follower Car
  - Inspirace - https://www.youtube.com/watch?v=t7k9D1jDEtk 
  - Hotový projekt by měl vypadat jako autíčko, které je schopno provádět pohyb po čáře za pomocí senzorů.
- - [x] Září - objednání hardware
+ - [x] Září - objednání hardware, nastudování dokumentace
  
- - [x] Říjen - Sestavení auta, postupné psaní dokumentace
+ - [x] Říjen - Rozpracování dokumentace
  
- - [ ] Listopad - Nastudování a úprava programu 
+ - [ ] Listopad - Nastudování a úprava programu, sestavení auta 
  
  - [ ] Prosinec - Odevzdání projektu a dokumentace
 
