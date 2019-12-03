@@ -22,4 +22,5 @@
 - Infrared Sensor : https://www.laskarduino.cz/arduino-ir-opticky-infra-snimac-fc-51/
 
 # Problémy 
+https://www.youtube.com/watch?v=dsFirGVVUbg
  
