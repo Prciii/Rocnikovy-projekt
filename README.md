@@ -1,5 +1,5 @@
  # Ročníkový projekt
-  Arduino Line Follower Car
+ <b> Arduino Line Follower Car </b>  
  - Inspirace - https://www.youtube.com/watch?v=t7k9D1jDEtk 
  - Hotový projekt by měl vypadat jako autíčko, které je schopno provádět pohyb po čáře za pomocí senzorů.
  - [x] Září - objednání hardware, nastudování dokumentace
