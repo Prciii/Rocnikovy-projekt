@@ -22,5 +22,6 @@
 - Infrared Sensor : https://www.laskarduino.cz/arduino-ir-opticky-infra-snimac-fc-51/
 
 # Problémy 
+- Potřeba přidat tlačítko na zapínání obvodu(Vyčřešeno)
 - Moc nízko nalepené senzory(Nevyřešeno)
 - Potřeba upravit podmínku u senzorů(Nevyřešeno)
