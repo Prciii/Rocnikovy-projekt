@@ -23,3 +23,4 @@
 
 # Problémy 
 Moc nízko nalepené senzory(Nevyřešeno)
+Potřeba upravit podmínku u senzorů(Nevyřešeno)
