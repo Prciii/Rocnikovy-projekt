@@ -6,7 +6,7 @@
  
  - [x] Říjen - Rozpracování dokumentace
  
- - [ ] Listopad - Nastudování a úprava programu, sestavení auta 
+ - [x] Listopad - Nastudování a úprava programu, sestavení auta 
  
  - [ ] Prosinec - Odevzdání projektu a dokumentace
 
