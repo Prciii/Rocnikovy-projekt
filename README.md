@@ -23,5 +23,5 @@
 
 # Problémy 
 - Potřeba přidat tlačítko na zapínání obvodu(Vyřešeno)
-- Moc nízko nalepené senzory(Nevyřešeno)
+- Moc vysoko nalepené senzory(Vyřešeno)
 - Potřeba upravit podmínku u senzorů(Nevyřešeno)
