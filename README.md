@@ -8,7 +8,7 @@
  
  - [x] Listopad - Nastudování a úprava programu, sestavení auta 
  
- - [ ] Prosinec - Odevzdání projektu a dokumentace
+ - [x] Prosinec - Odevzdání projektu a dokumentace
 
 # Součástky
 
@@ -24,4 +24,4 @@
 # Problémy 
 - Potřeba přidat tlačítko na zapínání obvodu(Vyřešeno)
 - Moc vysoko nalepené senzory(Vyřešeno)
-- Potřeba upravit podmínku u senzorů(Nevyřešeno)
+- Potřeba upravit podmínku u senzorů(Vyřešeno)
